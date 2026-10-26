@@ -1,0 +1,2760 @@
+{
+  "version": 1,
+  "main": true,
+  "selected": true,
+  "id": "3ecad7f3-508c-4bb2-9beb-7fb804921467",
+  "name": "Full Freq_T - 3 Collection",
+  "author": "Converted by Grok Python",
+  "items": [
+    {
+      "name": "Начало КВ диапазона",
+      "short_name": null,
+      "description": "",
+      "start": 2000000,
+      "stop": 2000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB-радио (27 МГц), Citizen Band",
+      "short_name": null,
+      "description": "Гражданский диапазон для радиосвязи на короткие расстояния",
+      "start": 27000000,
+      "stop": 27000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 1",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 26965000,
+      "stop": 26965000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 2",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 26975000,
+      "stop": 26975000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 3",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 26985000,
+      "stop": 26985000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 4",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27005000,
+      "stop": 27005000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 5",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27015000,
+      "stop": 27015000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 6",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27025000,
+      "stop": 27025000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 7",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27035000,
+      "stop": 27035000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 8",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27055000,
+      "stop": 27055000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 9",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27065000,
+      "stop": 27065000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 10",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27075000,
+      "stop": 27075000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 11",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27085000,
+      "stop": 27085000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 12",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27105000,
+      "stop": 27105000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 13",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27115000,
+      "stop": 27115000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 14",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27125000,
+      "stop": 27125000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 15",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27135000,
+      "stop": 27135000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 16",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27155000,
+      "stop": 27155000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 17",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27165000,
+      "stop": 27165000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 18",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27175000,
+      "stop": 27175000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 19",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27185000,
+      "stop": 27185000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 20",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27205000,
+      "stop": 27205000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 21",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27215000,
+      "stop": 27215000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 22",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27225000,
+      "stop": 27225000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 23",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27255000,
+      "stop": 27255000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 24",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27235000,
+      "stop": 27235000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 25",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27245000,
+      "stop": 27245000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 26",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27265000,
+      "stop": 27265000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 27",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27275000,
+      "stop": 27275000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 28",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27285000,
+      "stop": 27285000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 29",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27295000,
+      "stop": 27295000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 30",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27305000,
+      "stop": 27305000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 31",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27315000,
+      "stop": 27315000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 32",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27325000,
+      "stop": 27325000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 33",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27335000,
+      "stop": 27335000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 34",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27345000,
+      "stop": 27345000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 35",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27355000,
+      "stop": 27355000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 36",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27365000,
+      "stop": 27365000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 37",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27375000,
+      "stop": 27375000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 38",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27385000,
+      "stop": 27385000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 39",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27395000,
+      "stop": 27395000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "CB Канал 40",
+      "short_name": null,
+      "description": "CB-радио (27 МГц), Citizen Band channel",
+      "start": 27405000,
+      "stop": 27405000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "VHF - Начало диапазона для дальних LOS UAV (Orlan-10, reconnaissance)",
+      "short_name": null,
+      "description": "Orlan-10 (Россия): дальний контроль (30-300 МГц, LOS) Россия, VHF LOS",
+      "start": 30000000,
+      "stop": 30000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Морская радиосвязь, аварийные частоты",
+      "short_name": null,
+      "description": "",
+      "start": 40000000,
+      "stop": 40000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 1",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 40700000,
+      "stop": 40700000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 2",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 41200000,
+      "stop": 41200000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 3",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 41700000,
+      "stop": 41700000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 4",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 42200000,
+      "stop": 42200000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 5",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 42700000,
+      "stop": 42700000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 6",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 43200000,
+      "stop": 43200000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 7",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 43700000,
+      "stop": 43700000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Морской УКВ Канал 8",
+      "short_name": null,
+      "description": "Морская радиосвязь, аварийные частоты channel",
+      "start": 44200000,
+      "stop": 44200000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Начало любительского диапазона 6м",
+      "short_name": null,
+      "description": "",
+      "start": 50000000,
+      "stop": 50000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Конец любительского диапазона 6м",
+      "short_name": null,
+      "description": "",
+      "start": 52000000,
+      "stop": 52000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "FPV контроль (старые системы, Серво-тест)",
+      "short_name": null,
+      "description": "",
+      "start": 72000000,
+      "stop": 72000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 1",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72080000,
+      "stop": 72080000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 2",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72160000,
+      "stop": 72160000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 3",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72240000,
+      "stop": 72240000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 4",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72320000,
+      "stop": 72320000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 5",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72400000,
+      "stop": 72400000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 6",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72480000,
+      "stop": 72480000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 7",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72560000,
+      "stop": 72560000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 8",
+      "short_name": null,
+      "description": "FPV контроль (старые системы, Серво-тест) channel",
+      "start": 72640000,
+      "stop": 72640000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Авиационная маркерная радиомаячная система",
+      "short_name": null,
+      "description": "",
+      "start": 75000000,
+      "stop": 75000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Начало ЧМ радио",
+      "short_name": null,
+      "description": "",
+      "start": 87500000,
+      "stop": 87500000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Конец ЧМ радио",
+      "short_name": null,
+      "description": "",
+      "start": 108000000,
+      "stop": 108000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Начало авиационного диапазона",
+      "short_name": null,
+      "description": "",
+      "start": 118000000,
+      "stop": 118000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Аварийная частота (ELT)",
+      "short_name": null,
+      "description": "",
+      "start": 121500000,
+      "stop": 121500000,
+      "visible": true,
+      "color": "#FFFF0000",
+      "icon": null
+    },
+    {
+      "name": "Авиационная частота для SAR",
+      "short_name": null,
+      "description": "",
+      "start": 123100000,
+      "stop": 123100000,
+      "visible": true,
+      "color": "#FFFF0000",
+      "icon": null
+    },
+    {
+      "name": "Конец авиационного диапазона",
+      "short_name": null,
+      "description": "",
+      "start": 137000000,
+      "stop": 137000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Начало любительского диапазона 2м",
+      "short_name": null,
+      "description": "",
+      "start": 144000000,
+      "stop": 144000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Конец любительского диапазона 2м",
+      "short_name": null,
+      "description": "",
+      "start": 148000000,
+      "stop": 148000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Тактические радиостанции, военная связь",
+      "short_name": null,
+      "description": "",
+      "start": 155000000,
+      "stop": 155000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало VHF TV",
+      "short_name": null,
+      "description": "",
+      "start": 174000000,
+      "stop": 174000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "VHF/UHF - Orlan-10 (основной тактический диапазон)",
+      "short_name": null,
+      "description": "Orlan-10 (Россия): управление и видео (200-450 МГц) Россия",
+      "start": 200000000,
+      "stop": 200000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "UHF - Основной C2 для дронов НАТО/США (STANAG 4204/4205)",
+      "short_name": null,
+      "description": "MQ-9 Reaper, RQ-7 Shadow (США/НАТО): C2 и LOS-управление (225–400 МГц) США/НАТО",
+      "start": 225000000,
+      "stop": 225000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "UHF Band Start",
+      "short_name": null,
+      "description": "UHF - Основной C2 для дронов НАТО/США (STANAG 4204/4205) channel",
+      "start": 225000000,
+      "stop": 225000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "UHF Band End",
+      "short_name": null,
+      "description": "UHF - Основной C2 для дронов НАТО/США (STANAG 4204/4205) channel",
+      "start": 400000000,
+      "stop": 400000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Конец VHF TV",
+      "short_name": null,
+      "description": "",
+      "start": 230000000,
+      "stop": 230000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Военная связь, тактические УКВ радиостанции",
+      "short_name": null,
+      "description": "",
+      "start": 240000000,
+      "stop": 240000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Конец УКВ, начало УВЧ - ТВ, мобильные телефоны, WiFi, GPS",
+      "short_name": null,
+      "description": "",
+      "start": 300000000,
+      "stop": 300000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Военная авиационная телеметрия (США)",
+      "short_name": null,
+      "description": "",
+      "start": 328600000,
+      "stop": 328600000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "UHF - RQ-7 Shadow (основной C2 и видео)",
+      "short_name": null,
+      "description": "RQ-7 Shadow (США/НАТО): управление и видео (C-band LOS, 340-400 МГц UHF) США, НАТО",
+      "start": 340000000,
+      "stop": 340000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio)",
+      "short_name": null,
+      "description": "Цифровой стандарт профессиональной мобильной радиосвязи с временным разделением каналов (TDMA)",
+      "start": 380000000,
+      "stop": 380000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 1 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380012500,
+      "stop": 380012500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 2 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380037500,
+      "stop": 380037500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 3 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380062500,
+      "stop": 380062500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 4 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380087500,
+      "stop": 380087500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 5 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380112500,
+      "stop": 380112500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 6 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380137500,
+      "stop": 380137500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 7 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380162500,
+      "stop": 380162500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 8 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380187500,
+      "stop": 380187500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 9 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380212500,
+      "stop": 380212500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 10 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380237500,
+      "stop": 380237500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 11 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380262500,
+      "stop": 380262500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 12 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380287500,
+      "stop": 380287500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 13 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380312500,
+      "stop": 380312500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 14 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380337500,
+      "stop": 380337500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 15 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380362500,
+      "stop": 380362500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 16 (симплекс)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 380387500,
+      "stop": 380387500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 1 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389012500,
+      "stop": 389012500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 2 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389037500,
+      "stop": 389037500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 3 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389062500,
+      "stop": 389062500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 4 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389087500,
+      "stop": 389087500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 5 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389112500,
+      "stop": 389112500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 6 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389137500,
+      "stop": 389137500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 7 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389162500,
+      "stop": 389162500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 8 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389187500,
+      "stop": 389187500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 9 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389212500,
+      "stop": 389212500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 10 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389237500,
+      "stop": 389237500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 11 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389262500,
+      "stop": 389262500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 12 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389287500,
+      "stop": 389287500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 13 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389312500,
+      "stop": 389312500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 14 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389337500,
+      "stop": 389337500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 15 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389362500,
+      "stop": 389362500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 16 (дуплекс RX)",
+      "short_name": null,
+      "description": "TETRA - системы профессиональной мобильной радиосвязи (Terrestrial Trunked Radio) channel",
+      "start": 389387500,
+      "stop": 389387500,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "VHF/UHF - Орлан-10 (основной)",
+      "short_name": null,
+      "description": "['Орлан-10 (Россия): управление + видео (400-450 МГц)', 'Supercam S350 (Россия): COFDM видео (2400-2483.5 МГц)'] Россия",
+      "start": 400000000,
+      "stop": 400000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "UHF - Лелека-100 (ранние версии), ACS-3M",
+      "short_name": null,
+      "description": "['Лелека-100 (Украина): управление и видео (410-480 МГц, шифрованные каналы)', 'ACS-3M (Украина): разведка (461-469 МГц)'] Украина",
+      "start": 410000000,
+      "stop": 410000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Основной контроль",
+      "short_name": null,
+      "description": "UHF - Лелека-100 (ранние версии), ACS-3M channel",
+      "start": 410000000,
+      "stop": 410000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Расширенный диапазон",
+      "short_name": null,
+      "description": "UHF - Лелека-100 (ранние версии), ACS-3M channel",
+      "start": 480000000,
+      "stop": 480000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало любительского диапазона 70см",
+      "short_name": null,
+      "description": "",
+      "start": 430000000,
+      "stop": 430000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS)",
+      "short_name": null,
+      "description": "['Windhover (Украина): управление (433-438 МГц)', 'Фурия А1 (Украина): управление (433-447 МГц)', 'FPV-камикадзе 7–13″ (Украина): ELRS/ExpressLRS (433 МГц)'] Украина",
+      "start": 433000000,
+      "stop": 433000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 1",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433050000,
+      "stop": 433050000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 2",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433100000,
+      "stop": 433100000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 3",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433150000,
+      "stop": 433150000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 4",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433200000,
+      "stop": 433200000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 5",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433250000,
+      "stop": 433250000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 6",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433300000,
+      "stop": 433300000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 7",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433350000,
+      "stop": 433350000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 8",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433400000,
+      "stop": 433400000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 9",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433450000,
+      "stop": 433450000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 10",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433500000,
+      "stop": 433500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 11",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433550000,
+      "stop": 433550000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 12",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433600000,
+      "stop": 433600000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 13",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433650000,
+      "stop": 433650000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 14",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433700000,
+      "stop": 433700000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 15",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433750000,
+      "stop": 433750000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 16",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433800000,
+      "stop": 433800000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 17",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433850000,
+      "stop": 433850000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 18",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433900000,
+      "stop": 433900000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 19",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 433950000,
+      "stop": 433950000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 20",
+      "short_name": null,
+      "description": "Диапазон ISM, FPV дальний контроль (напр., Crossfire, ELRS) канал",
+      "start": 434000000,
+      "stop": 434000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "UHF - МАРА 2П (Украина)",
+      "short_name": null,
+      "description": "МАРА 2П (Украина): управление и видео (435-440 МГц) Украина",
+      "start": 435000000,
+      "stop": 435000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Конец любительского диапазона 70см",
+      "short_name": null,
+      "description": "",
+      "start": 440000000,
+      "stop": 440000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 - общедоступные рации (Европа)",
+      "short_name": null,
+      "description": "",
+      "start": 446000000,
+      "stop": 446000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 1",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446006250,
+      "stop": 446006250,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 2",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446018750,
+      "stop": 446018750,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 3",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446031250,
+      "stop": 446031250,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 4",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446043750,
+      "stop": 446043750,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 5",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446056250,
+      "stop": 446056250,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 6",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446068750,
+      "stop": 446068750,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 7",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446081250,
+      "stop": 446081250,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "PMR446 Канал 8",
+      "short_name": null,
+      "description": "PMR446 - общедоступные рации (Европа) channel",
+      "start": 446093750,
+      "stop": 446093750,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "UHF - PGZ-19R (Китай/экспорт)",
+      "short_name": null,
+      "description": "PGZ-19R (Китай): разведка (450-460 МГц) Китай",
+      "start": 450000000,
+      "stop": 450000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "UHF - ACS-3M (Украина)",
+      "short_name": null,
+      "description": "ACS-3M (Украина): разведка и видео (461-469 МГц) Украина",
+      "start": 461000000,
+      "stop": 461000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало УВЧ ТВ",
+      "short_name": null,
+      "description": "",
+      "start": 470000000,
+      "stop": 470000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Начало LTE B28",
+      "short_name": null,
+      "description": "",
+      "start": 698000000,
+      "stop": 698000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Конец LTE B28",
+      "short_name": null,
+      "description": "",
+      "start": 806000000,
+      "stop": 806000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение)",
+      "short_name": null,
+      "description": "FPV-камикадзе (Россия): ELRS (868 МГц) Lancet-3 (Россия): видео (868-870 МГц, резервные каналы) Россия",
+      "start": 868000000,
+      "stop": 868000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 1",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868100000,
+      "stop": 868100000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 2",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868200000,
+      "stop": 868200000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 3",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868300000,
+      "stop": 868300000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 4",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868400000,
+      "stop": 868400000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 5",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868500000,
+      "stop": 868500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 6",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868600000,
+      "stop": 868600000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 7",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868700000,
+      "stop": 868700000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 8",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868800000,
+      "stop": 868800000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 9",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 868900000,
+      "stop": 868900000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 10",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (поддержка 16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 869000000,
+      "stop": 869000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Начало LTE B20 downlink",
+      "short_name": null,
+      "description": "",
+      "start": 877000000,
+      "stop": 877000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Конец сотовой связи",
+      "short_name": null,
+      "description": "",
+      "start": 890000000,
+      "stop": 890000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "GSM 900, FPV видео/контроль",
+      "short_name": null,
+      "description": "Лелека-100 (Украина): управление и видео (900-930 МГц) ZALA 421-08/16 (Россия): управление (830-930 МГц) Lancet-3 (Россия): видео (902-928 МГц) Украина/Россия",
+      "start": 900000000,
+      "stop": 900000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 1 (HobbyKing)",
+      "short_name": null,
+      "description": "GSM 900, FPV видео/контроль channel",
+      "start": 910000000,
+      "stop": 910000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 2 (HobbyKing)",
+      "short_name": null,
+      "description": "GSM 900, FPV видео/контроль channel",
+      "start": 980000000,
+      "stop": 980000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 3 (HobbyKing)",
+      "short_name": null,
+      "description": "GSM 900, FPV видео/контроль channel",
+      "start": 1010000000,
+      "stop": 1010000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "Канал 4 (HobbyKing)",
+      "short_name": null,
+      "description": "GSM 900, FPV видео/контроль channel",
+      "start": 1040000000,
+      "stop": 1040000000,
+      "visible": true,
+      "color": "#908D00FF",
+      "icon": null
+    },
+    {
+      "name": "ISM - ScanEagle (США), ACS-3M (Украина), Фурия (Украина), Lancet-3 (Россия)",
+      "short_name": null,
+      "description": "ScanEagle (США): управление и видео (902-928 МГц) ACS-3M (Украина): разведка (910-929 МГц) Фурия (Украина): видео (902-928 МГц) Lancet-3 (Россия): видео (902-928 МГц) США/Украина/Россия, ISM-бэнд",
+      "start": 902000000,
+      "stop": 902000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение)",
+      "short_name": null,
+      "description": "",
+      "start": 902500000,
+      "stop": 902500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 1",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 902500000,
+      "stop": 902500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 2",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 903500000,
+      "stop": 903500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 3",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 904500000,
+      "stop": 904500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 4",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 905500000,
+      "stop": 905500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 5",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 906500000,
+      "stop": 906500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 6",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 907500000,
+      "stop": 907500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 7",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 908500000,
+      "stop": 908500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 8",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 909500000,
+      "stop": 909500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 9",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 910500000,
+      "stop": 910500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 10",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 911500000,
+      "stop": 911500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 11",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 912500000,
+      "stop": 912500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 12",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 913500000,
+      "stop": 913500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 13",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 914500000,
+      "stop": 914500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 14",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 915500000,
+      "stop": 915500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 15",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 916500000,
+      "stop": 916500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 16",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 917500000,
+      "stop": 917500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 17",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 918500000,
+      "stop": 918500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 18",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 919500000,
+      "stop": 919500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 19",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 920500000,
+      "stop": 920500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 20",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 921500000,
+      "stop": 921500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 21",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 922500000,
+      "stop": 922500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 22",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 923500000,
+      "stop": 923500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 23",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 924500000,
+      "stop": 924500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 24",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 925500000,
+      "stop": 925500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 25",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 926500000,
+      "stop": 926500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 26",
+      "short_name": null,
+      "description": "FPV контроль (ELRS, Crossfire, FrSky R9, RadioMaster, HolyBro, CUAV) с FHSS (16 каналов, каналы 1-4 полное разрешение) channel",
+      "start": 927500000,
+      "stop": 927500000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "ISM - Matrice 600 (Китай/военные моды)",
+      "short_name": null,
+      "description": "Matrice 600 (Китай/военные моды): управление (920-928 МГц) Китай",
+      "start": 920000000,
+      "stop": 920000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "UHF - Orlan-10 (мастер-канал для роя)",
+      "short_name": null,
+      "description": "Орлан-10 (Россия): связь мастер-UAV с наземным (930 МГц) Россия",
+      "start": 930000000,
+      "stop": 930000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало DME авиационной навигации",
+      "short_name": null,
+      "description": "",
+      "start": 960000000,
+      "stop": 960000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "Начало L-диапазона - Военная телеметрия, GPS, мобильные телефоны, любительская радио",
+      "short_name": null,
+      "description": "",
+      "start": 1000000000,
+      "stop": 1000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Военный IFF (Identification Friend or Foe) - запрос",
+      "short_name": null,
+      "description": "",
+      "start": 1030000000,
+      "stop": 1030000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV)",
+      "short_name": null,
+      "description": "",
+      "start": 1080000000,
+      "stop": 1080000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.080 ГГц – RaceBand / LawMate",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1080000000,
+      "stop": 1080000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.120 ГГц",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1120000000,
+      "stop": 1120000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.160 ГГц",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1160000000,
+      "stop": 1160000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.208 ГГц",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1208000000,
+      "stop": 1208000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.248 ГГц",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1248000000,
+      "stop": 1248000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "1.258 ГГц – LawMate",
+      "short_name": null,
+      "description": "L-band - 1.0–1.3 ГГц – дальнобойный диапазон 2024–2025 (Баба-Яга, тяжёлые FPV) channel",
+      "start": 1258000000,
+      "stop": 1258000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "ADS-B (Automatic Dependent Surveillance-Broadcast), военный IFF - ответ",
+      "short_name": null,
+      "description": "",
+      "start": 1090000000,
+      "stop": 1090000000,
+      "visible": true,
+      "color": "#B801DBFF",
+      "icon": null
+    },
+    {
+      "name": "C-band - Основной диапазон для MALE UAV (MQ-9, Eurodrone, Heron, TB2, Шахед-136)",
+      "short_name": null,
+      "description": "Важный диапазон для современных MALE (Medium Altitude Long Endurance) БПЛА. Может использовать широкополосные сигналы (COFDM). ['MQ-9 Reaper', 'Eurodrone: C2 и видео (5030–5091 МГц)', 'IAI Heron (Израиль): каналы управления и телеметрии', 'Bayraktar TB2 (Турция): основной диапазон управления (C-band COFDM)', 'Шахед-136 (Иран): канал управления (предположительно, в этом диапазоне)']",
+      "start": 5030000000,
+      "stop": 5030000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Канал управления A",
+      "short_name": null,
+      "description": "C-band - Основной диапазон для MALE UAV (MQ-9, Eurodrone, Heron, TB2, Шахед-136) channel",
+      "start": 5030000000,
+      "stop": 5030000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Канал управления B",
+      "short_name": null,
+      "description": "C-band - Основной диапазон для MALE UAV (MQ-9, Eurodrone, Heron, TB2, Шахед-136) channel",
+      "start": 5090000000,
+      "stop": 5090000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Канал видео/телеметрии",
+      "short_name": null,
+      "description": "C-band - Основной диапазон для MALE UAV (MQ-9, Eurodrone, Heron, TB2, Шахед-136) channel",
+      "start": 5150000000,
+      "stop": 5150000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "U-NII-2 - FlyEye (Польша/Украина), DJI (прошитый)",
+      "short_name": null,
+      "description": "Польша/Китай/Украина, профессиональные/военные системы с увеличенной мощностью FlyEye (Польша): управление (5100-5300 МГц) DJI Mavic 3 Enterprise (военный режим): управление (5100-5300 МГц) Autel EVO II Enterprise (военные модификации)",
+      "start": 5100000000,
+      "stop": 5100000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "U-NII-1 - DJI Mavic 3 Enterprise/Thermal, Autel EVO II 4T",
+      "short_name": null,
+      "description": "Китай/военные моды DJI Mavic 3T (военный режим): управление (5150-5250 МГц) Autel EVO II 4T (военный режим): управление (5150-5250 МГц) Skydio X2D (некоторые режимы)",
+      "start": 5150000000,
+      "stop": 5150000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "C-band - RQ-7 Shadow (США), Bayraktar TB2 (Турция/НАТО)",
+      "short_name": null,
+      "description": "C-band, США/Турция/Китай RQ-7 Shadow (США): HD-видео (5250-5850 МГц) Bayraktar TB2 (Турция): COFDM-видео (5250-5850 МГц) Bayraktar Akinci (Турция): SATCOM (5100-5900 МГц) Wing Loong II (Китай): основной HD-канал (5100-5900 МГц) MQ-9 Reaper (США): основные каналы данных C-band",
+      "start": 5250000000,
+      "stop": 5250000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц, Китай/США DJI Mavic 3T (военный режим): видео (5650-5850 МГц) Autel EVO II 4T (военный режим): видео (5728-5847 МГц) Switchblade 300/600 (США): HDZero, DJI O3 (5725-5850 МГц)",
+      "start": 5650000000,
+      "stop": 5650000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 1 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5650000000,
+      "stop": 5650000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 2 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5695000000,
+      "stop": 5695000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 3 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5732000000,
+      "stop": 5732000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 4 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5769000000,
+      "stop": 5769000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 5 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5806000000,
+      "stop": 5806000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 6 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5843000000,
+      "stop": 5843000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 7 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5880000000,
+      "stop": 5880000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Канал 8 (20 МГц)",
+      "short_name": null,
+      "description": "ISM 5.8 ГГц - DJI «прошитый» (Mavic 3T, Matrice 30T/350), Autel EVO II 4T, Switchblade канал",
+      "start": 5917000000,
+      "stop": 5917000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "Конец WiFi 5 ГГц",
+      "short_name": null,
+      "description": "",
+      "start": 5850000000,
+      "stop": 5850000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "C-band uplink - SATCOM для спутниковых UAV (Bayraktar Akinci, Wing Loong II)",
+      "short_name": null,
+      "description": "['Bayraktar Akinci (Турция): SATCOM (5.925-6.425 ГГц uplink)', 'Wing Loong II (Китай): SATCOM HD-канал (5.925-6.425 ГГц)', 'MQ-9 Reaper (США): спутниковый аплинк управления'] C-band SATCOM, аплинк для спутниковой связи БЛА",
+      "start": 5925000000,
+      "stop": 5925000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений)",
+      "short_name": null,
+      "description": "",
+      "start": 5925000000,
+      "stop": 5925000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 1 (20 МГц)",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 5955000000,
+      "stop": 5955000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 5",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 5975000000,
+      "stop": 5975000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 9",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 5995000000,
+      "stop": 5995000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 13",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6015000000,
+      "stop": 6015000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 17",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6035000000,
+      "stop": 6035000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 21",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6055000000,
+      "stop": 6055000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 25",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6075000000,
+      "stop": 6075000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 29",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6095000000,
+      "stop": 6095000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 33",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6115000000,
+      "stop": 6115000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 37",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6135000000,
+      "stop": 6135000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 41",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6155000000,
+      "stop": 6155000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 45",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6175000000,
+      "stop": 6175000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 49",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6195000000,
+      "stop": 6195000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 53",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6215000000,
+      "stop": 6215000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 57",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6235000000,
+      "stop": 6235000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 61",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6255000000,
+      "stop": 6255000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 65",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6275000000,
+      "stop": 6275000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 69",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6295000000,
+      "stop": 6295000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 73",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6315000000,
+      "stop": 6315000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 77",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6335000000,
+      "stop": 6335000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 81",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6355000000,
+      "stop": 6355000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 85",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6375000000,
+      "stop": 6375000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 89",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6395000000,
+      "stop": 6395000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Канал 93",
+      "short_name": null,
+      "description": "Начало WiFi 6E (Россия: 5.9-6.4 ГГц для закрытых помещений) канал",
+      "start": 6415000000,
+      "stop": 6415000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Конец WiFi 6E (Россия)",
+      "short_name": null,
+      "description": "",
+      "start": 6400000000,
+      "stop": 6400000000,
+      "visible": true,
+      "color": "#9000FF30",
+      "icon": null
+    },
+    {
+      "name": "Конец диапазона до 7.2 ГГц",
+      "short_name": null,
+      "description": "",
+      "start": 7200000000,
+      "stop": 7200000000,
+      "visible": true,
+      "color": "#B8FFBA00",
+      "icon": null
+    },
+    {
+      "name": "X-band uplink - SATCOM для военных UAV (RQ-7, reconnaissance)",
+      "short_name": null,
+      "description": "['RQ-7 Shadow (США): SATCOM (7.25-7.75 ГГц uplink)', 'MQ-9 Reaper (США): высокоскоростной спутниковый аплинк'] X-band SATCOM, аплинк для тактических систем",
+      "start": 7250000000,
+      "stop": 7250000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "X-band - Основной канал данных для разведывательных БПЛА",
+      "short_name": null,
+      "description": "Основной диапазон для передачи высококачественного видео (Full Motion Video - FMV), данных РЭБ и другой разведывательной информации с БПЛА на наземные станции. ['General Atomics MQ-9 Reaper (основной даунлинк разведданных)', 'Northrop Grumman RQ-4 Global Hawk (широкополосный даунлинк)', 'IAI Eitan (Heron TP) (основной канал передачи данных)', \"НЕЛК 'Альтиус-У' / 'Охотник' (Россия, предположительно)\", 'Bayraktar Akinci (Турция, высококачественный видео-даунлинк)'] Типичная полоса: 7.25 - 7.75 ГГц для даунлинка, 7.9 - 8.4 ГГц для аплинка. Требует направленных антенн. Высокая помехоустойчивость.",
+      "start": 7300000000,
+      "stop": 7300000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "даунлинк",
+      "short_name": null,
+      "description": "X-band - Основной канал данных для разведывательных БПЛА channel",
+      "start": 7250000000,
+      "stop": 7750000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "аплинк",
+      "short_name": null,
+      "description": "X-band - Основной канал данных для разведывательных БПЛА channel",
+      "start": 7900000000,
+      "stop": 8400000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "X-band downlink - SATCOM для UAV (Iridium Certus, tactical)",
+      "short_name": null,
+      "description": "Iridium Certus UAV (глобальные): видео (7.75-8.4 ГГц downlink) X-band SATCOM",
+      "start": 7750000000,
+      "stop": 7750000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Начало X-диапазона - Спутниковая связь, радары",
+      "short_name": null,
+      "description": "",
+      "start": 8000000000,
+      "stop": 8000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Радарные системы (X-band)",
+      "short_name": null,
+      "description": "",
+      "start": 9000000000,
+      "stop": 9000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Ku-band downlink - SATCOM для спутниковых UAV (Akinci, Wing Loong II)",
+      "short_name": null,
+      "description": "['Bayraktar Akinci (Турция): SATCOM (11.7-12.7 ГГц downlink)', 'Wing Loong II (Китай): SATCOM (11.7-12.7 ГГц)'] Ku-band SATCOM",
+      "start": 11700000000,
+      "stop": 11700000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Конец X-диапазона / 12 ГГц",
+      "short_name": null,
+      "description": "",
+      "start": 12000000000,
+      "stop": 12000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Ku-band uplink - SATCOM для BVLOS UAV (TB2, Shahed-136)",
+      "short_name": null,
+      "description": "['Bayraktar TB2 (Турция): SATCOM (14-14.5 ГГц uplink)', 'Shahed-136 (Иран/Россия): SATCOM relay (14-14.5 ГГц)'] Ku-band SATCOM",
+      "start": 14000000000,
+      "stop": 14000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "K-band - Высокочастотные радары, спутниковая связь",
+      "short_name": null,
+      "description": "",
+      "start": 18000000000,
+      "stop": 18000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Ka-band - Спутниковая связь, радары",
+      "short_name": null,
+      "description": "",
+      "start": 24000000000,
+      "stop": 24000000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    },
+    {
+      "name": "Ka-band - SATCOM для высокоскоростных UAV (Akinci, Wing Loong II)",
+      "short_name": null,
+      "description": "['Bayraktar Akinci (Турция): высокоскоростной SATCOM (26.5-40 ГГц)', 'Wing Loong II (Китай): HD SATCOM (26.5-40 ГГц)'] Ka-band SATCOM",
+      "start": 26500000000,
+      "stop": 26500000000,
+      "visible": true,
+      "color": "#90FF020F",
+      "icon": null
+    }
+  ]
+}

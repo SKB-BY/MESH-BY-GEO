@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Шкловский район — LoRa MESH + рельеф</name>
+    <Style id="lora"><IconStyle><color>ff00ff00</color><scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle></Style>
+    <Style id="high"><IconStyle><color>ff0000ff</color><scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle></Style>
+    <Style id="low"><IconStyle><color>ffff0000</color><scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle></Style>
+    <Style id="tower"><IconStyle><color>ff00ffff</color><scale>0.9</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle></Style>
+
+    <Placemark>
+      <name>Основной шлюз (Шклов) → Минск</name>
+      <description><![CDATA[Роль: gateway<br>Высота: 187.0 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: city_center]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.2878,54.2133,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Резервный шлюз (Шклов) → Минск</name>
+      <description><![CDATA[Роль: gateway<br>Высота: 187.0 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: backup_offset]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.3028,54.2253,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #1</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 237.0 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.586110666666666,54.06379857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #2</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 236.5 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.292777333333333,54.06379857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #3</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 246.1 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.479444,54.280782571428574,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #4</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 242.9 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.052777333333335,54.218787142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #5</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 240.4 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.532777333333332,54.164541142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #6</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 238.3 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.186110666666668,54.30403085714286,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #7</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 252.4 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>29.999444,54.288532000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #8</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 242.6 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.386110666666667,54.342778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #9</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 237.3 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.092777333333334,54.342778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Районный репитер #10</name>
+      <description><![CDATA[Роль: repeater<br>Высота: 236.9 м<br>Частота: 864.43 МГц<br>Пресет: MediumFast<br>Источник: relief]]></description>
+      <styleUrl>#lora</styleUrl>
+      <Point><coordinates>30.439443999999998,54.125794,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 225 м</name>
+      <description><![CDATA[Высокая точка 225.4 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>29.999444,54.288532000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 223 м</name>
+      <description><![CDATA[Высокая точка 222.7 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.479444,54.319529714285714,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 221 м</name>
+      <description><![CDATA[Высокая точка 221.0 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>29.999444,54.33502857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 221 м</name>
+      <description><![CDATA[Высокая точка 221.0 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>29.999444,54.342778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 221 м</name>
+      <description><![CDATA[Высокая точка 220.6 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.092777333333334,54.18778942857143,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 219 м</name>
+      <description><![CDATA[Высокая точка 219.1 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.479444,54.280782571428574,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 218 м</name>
+      <description><![CDATA[Высокая точка 217.8 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.146110666666665,54.265283714285715,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 216 м</name>
+      <description><![CDATA[Высокая точка 215.9 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.052777333333335,54.218787142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 216 м</name>
+      <description><![CDATA[Высокая точка 215.6 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.386110666666667,54.342778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 216 м</name>
+      <description><![CDATA[Высокая точка 215.5 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.146110666666665,54.226536571428575,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 213 м</name>
+      <description><![CDATA[Высокая точка 213.4 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.532777333333332,54.164541142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 211 м</name>
+      <description><![CDATA[Высокая точка 211.3 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.186110666666668,54.30403085714286,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 211 м</name>
+      <description><![CDATA[Высокая точка 210.8 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.239444,54.164541142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 210 м</name>
+      <description><![CDATA[Высокая точка 210.3 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.092777333333334,54.342778,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 210 м</name>
+      <description><![CDATA[Высокая точка 210.0 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.586110666666666,54.06379857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 210 м</name>
+      <description><![CDATA[Высокая точка 209.9 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.439443999999998,54.125794,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 210 м</name>
+      <description><![CDATA[Высокая точка 209.5 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.292777333333333,54.06379857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Высокая 209 м</name>
+      <description><![CDATA[Высокая точка 209.4 м]]></description>
+      <styleUrl>#high</styleUrl>
+      <Point><coordinates>30.199444,54.20328828571429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 143 м</name>
+      <description><![CDATA[Низкая точка 142.9 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.386110666666667,53.963056,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 143 м</name>
+      <description><![CDATA[Низкая точка 142.9 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.386110666666667,53.97080542857143,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 143 м</name>
+      <description><![CDATA[Низкая точка 142.9 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.386110666666667,53.97855485714286,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 144 м</name>
+      <description><![CDATA[Низкая точка 144.0 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.386110666666667,54.02505142857143,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 153 м</name>
+      <description><![CDATA[Низкая точка 153.1 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.292777333333333,54.327279142857144,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 154 м</name>
+      <description><![CDATA[Низкая точка 154.4 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.292777333333333,54.20328828571429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 155 м</name>
+      <description><![CDATA[Низкая точка 154.8 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.332777333333333,54.164541142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 158 м</name>
+      <description><![CDATA[Низкая точка 158.4 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.239444,54.280782571428574,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 163 м</name>
+      <description><![CDATA[Низкая точка 163.3 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.772777333333334,54.02505142857143,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 167 м</name>
+      <description><![CDATA[Низкая точка 167.1 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.186110666666668,53.98630428571429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 167 м</name>
+      <description><![CDATA[Низкая точка 167.5 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.532777333333332,54.06379857142857,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Низкая 168 м</name>
+      <description><![CDATA[Низкая точка 168.4 м]]></description>
+      <styleUrl>#low</styleUrl>
+      <Point><coordinates>30.679444,54.164541142857146,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9869,54.4683,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1828,54.4971,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9233,54.4628,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0358,54.4712,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.384,54.5236,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0018,54.478,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.017,54.4923,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0344,54.4856,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2091,54.5374,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9112,54.4606,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9773,54.463,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8264,54.4321,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.186,54.5127,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8177,54.4283,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2282,54.5052,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1542,54.4853,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0108,54.4686,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0046,54.4682,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.944,54.4678,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8712,54.4747,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8652,54.4616,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9045,54.4576,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8789,54.4512,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8395,54.438,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3867,54.5249,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3761,54.5212,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3724,54.5203,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1174,54.4781,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8189,54.4287,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.852,54.4399,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8522,54.4443,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8609,54.4577,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8832,54.4531,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9232,54.4627,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9037,54.4585,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9378,54.4799,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9516,54.4819,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9551,54.467,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9882,54.4672,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1894,54.5384,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2042,54.4962,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2506,54.5113,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2558,54.5121,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3787,54.5221,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3795,54.5224,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.379,54.5221,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3814,54.5225,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3822,54.5228,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3894,54.5263,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.39,54.5265,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.402,54.533,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3933,54.5283,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3948,54.5291,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3963,54.53,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4035,54.5338,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4012,54.5325,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4072,54.5357,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4115,54.538,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4124,54.5384,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.4141,54.5392,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1806,54.5331,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1614,54.5259,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1192,54.5073,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1441,54.5172,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1221,54.5081,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0582,54.4996,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0539,54.4991,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9989,54.4889,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9801,54.486,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0243,54.4925,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9389,54.48,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.9384,54.48,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8335,54.4793,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8314,54.4794,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1476,54.4798,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.1174,54.1842,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.085,54.204,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.097,54.1987,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.0976,54.1969,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.0864,54.2032,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: МТС<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.0823,54.2058,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.059,54.2211,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9968,54.2623,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.0024,54.2607,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>31.0036,54.2604,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9943,54.2629,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9915,54.2657,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9927,54.2671,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9937,54.2681,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.996,54.2709,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.997,54.2723,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9982,54.2759,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9983,54.2764,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9993,54.2797,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9995,54.2815,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.999,54.2818,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.995,54.2837,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9941,54.2841,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9884,54.2865,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9837,54.2883,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9788,54.2908,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9812,54.2923,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9823,54.2937,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9834,54.2951,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9842,54.2984,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9842,54.2986,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9839,54.3007,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: beCloud<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.9837,54.3006,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3862,54.5246,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3842,54.5235,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.381,54.5224,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.378,54.5217,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3684,54.5193,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3463,54.5154,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3572,54.5167,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3461,54.5139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3429,54.5133,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2923,54.5171,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3162,54.5155,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2739,54.5156,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.2516,54.5109,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: life:)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0649,54.4744,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3549,54.5116,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3715,54.5119,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3703,54.5082,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3804,54.5276,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3709,54.5091,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3604,54.5123,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1908,54.5406,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1497,54.5242,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.1307,54.5121,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.965,54.4839,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.0686,54.4998,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.019,54.4921,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.896,54.4758,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8486,54.4768,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>29.8044,54.4764,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3219,54.4853,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3411,54.4783,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>OpenCelliD</name>
+      <description><![CDATA[Оператор: А1 (velcom)<br>Высота мачты: н/д<br>Источник: Cell_257.csv]]></description>
+      <styleUrl>#tower</styleUrl>
+      <Point><coordinates>30.3549,54.5119,0</coordinates></Point>
+    </Placemark>  </Document>
+</kml>
